@@ -1,0 +1,33 @@
+.App{
+  background-color: rgb(65, 67, 67);
+  width: 100%;
+  padding: 0px;
+  margin: 0p;
+  height: 100vh;
+}
+.todoWrapper{
+  padding:50px ;
+  width: 700px;
+  height: 800px;
+  background-color: rgb(192, 240, 224);
+ margin: auto;
+ border: 1px solid gray;
+}
+.todoList{
+  margin-top: 10px;
+  background-color: azure;
+  padding:10px;
+}
+input{
+  width:50%;
+  padding: 10px 20px;;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  font-size: 18px;
+}
+button{
+  padding: 7px;
+  font-weight: bold;
+  color: blue;
+  font-size: 20px;
+}
